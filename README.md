@@ -23,6 +23,7 @@ $ python main_search.py
 On process
 
 # The technology stack:
+- Pure Pytorch without aditional API 
 - Text detection model CRAFT Craft_mlt_25k.pth (81 MB) (pretrained weigths on SynthText, IC13, IC1 ) -> quntized_Craft (20 MB)
 - Text recognition model CRNN+VGG+CTCLossConverter Cyrillic_g2.pth (15 MB) 
 - Sqlite3 Database 
