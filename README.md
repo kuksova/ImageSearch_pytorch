@@ -20,7 +20,8 @@ $ python main_search.py
 
 
 # Pipeline  
-On process
+<img width="1302" alt="Screenshot 2024-08-24 at 11 44 27 AM" src="https://github.com/user-attachments/assets/ae1dabe7-c625-40f6-bd0d-8dca2ca940cd">
+
 
 # The technology stack:
 - Pure Pytorch without aditional API 
